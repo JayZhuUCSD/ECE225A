@@ -1,0 +1,334 @@
+City,Crime_PTP,Lat,Long
+Stallion Springs,7.28,35.12,-118.51
+Ione,8.38,38.33,-120.88
+Truckee,10.9,39.3,-120.31
+Hillsborough,10.99,37.56,-122.37
+Los Altos,11.08,37.34,-122.11
+Sierra Madre,11.4,34.16,-118.05
+Moraga,12.09,37.84,-122.12
+San Ramon,12.12,37.78,-121.99
+Atherton,12.35,37.44,-122.2
+Palos Verdes Estates,12.81,33.75,-118.31
+Belvedere,13.53,37.89,-122.47
+Clayton,13.55,37.88,-121.84
+Soledad,14.1,36.39,-121.3
+Lincoln,14.44,38.93,-121.25
+Guadalupe,14.89,34.93,-120.59
+Newman,14.98,37.28,-121.2
+Cloverdale,15.16,38.78,-122.92
+Fairfax,15.22,37.98,-122.58
+Mill Valley,15.49,37.9,-122.52
+Ross,15.6,37.96,-122.55
+Coronado,16.11,32.68,-117.17
+Murrieta,16.16,33.64,-117.18
+Kensington,16.33,37.9,-122.26
+Sunnyvale,16.48,37.42,-122.0
+Folsom,16.49,38.67,-121.17
+Huron,16.57,36.2,-120.09
+Hercules,16.7,38.01,-122.25
+St. Helena,16.76,,
+Rio Vista,16.97,38.18,-121.73
+Orange Cove,16.98,36.74,-119.19
+Ripon,17.19,37.75,-121.12
+Wheatland,17.23,39.04,-121.39
+Calistoga,17.23,38.62,-122.61
+Belmont,17.28,37.5,-122.3
+Firebaugh,17.68,36.85,-120.54
+Hollister,17.74,36.84,-121.39
+Farmersville,17.9,36.3,-119.19
+Seaside,18.6,36.62,-121.82
+Cotati,18.74,38.31,-122.7
+Pacific Grove,18.75,36.61,-121.92
+Daly City,18.75,37.7,-122.45
+Gonzales,18.81,36.54,-121.39
+Piedmont,19.17,37.77,-122.21
+Benicia,19.21,38.11,-122.13
+Winters,19.22,38.56,-121.99
+Pacifica,19.5,37.6,-122.45
+Mammoth Lakes,19.74,37.58,-118.84
+Monrovia,19.91,34.13,-117.98
+King City,19.92,36.2,-120.94
+Chula Vista,20.07,32.65,-116.95
+Carlsbad,20.23,33.16,-117.34
+Fremont,20.26,37.55,-122.07
+Novato,20.35,38.1,-122.57
+Rocklin,20.73,38.81,-121.28
+Napa,21.18,38.29,-122.28
+Chowchilla,21.24,37.07,-120.27
+Brisbane,21.51,37.68,-122.41
+Auburn,21.6,38.9,-121.06
+Pleasanton,21.73,37.67,-121.93
+Broadmoor,21.91,,
+San Mateo,22.16,37.56,-122.32
+Parlier,22.18,36.62,-119.51
+Elk Grove,22.3,38.4,-121.37
+Central Marin,22.6,,
+Arcadia,22.83,34.12,-118.05
+Port Hueneme,23.1,34.15,-119.19
+South San Francisco,23.26,37.64,-122.41
+Beaumont,23.5,33.94,-116.97
+Cathedral City,23.52,33.77,-116.46
+Los Gatos,23.58,37.13,-121.94
+Del Rey Oaks,23.58,36.6,-121.88
+Escalon,23.9,37.83,-121.03
+Brentwood,23.94,37.87,-121.68
+Corona,24.07,33.75,-117.48
+Redwood City,24.07,37.53,-122.24
+McFarland,24.26,,
+Fontana,24.51,34.05,-117.46
+Ridgecrest,24.8,35.62,-117.67
+San Diego,24.81,32.8,-117.13
+Vacaville,24.9,38.31,-121.92
+Greenfield,24.91,36.26,-121.37
+Alameda,25.02,37.73,-122.24
+El Cajon,25.27,32.79,-116.96
+Rialto,25.49,34.16,-117.39
+Reedley,25.51,36.65,-119.4
+Union City,25.56,37.59,-122.06
+Escondido,25.85,33.12,-117.1
+Banning,25.94,33.92,-116.83
+Newport Beach,26.13,33.62,-117.93
+Petaluma,26.17,38.32,-122.64
+Coalinga,26.19,36.19,-120.39
+Huntington Beach,26.38,33.71,-118.04
+Dixon,26.45,38.39,-121.81
+Martinez,26.5,37.98,-122.15
+Livermore,26.56,37.77,-121.75
+Burbank,26.59,34.19,-118.32
+Willits,26.77,39.49,-123.36
+Galt,26.93,38.27,-121.22
+Roseville,26.97,38.78,-121.37
+Milpitas,27.05,37.24,-121.97
+Davis,27.05,38.53,-121.66
+Mountain View,27.19,37.41,-122.05
+Bell,27.28,33.96,-118.15
+Chino,27.32,33.98,-117.65
+San Jose,27.57,37.33,-121.89
+San Bruno,27.89,37.62,-122.43
+Azusa,28.02,34.17,-117.87
+Newark,28.04,37.51,-122.04
+Porterville,28.16,36.05,-119.14
+Marina,28.16,36.67,-121.79
+Redondo Beach,28.35,33.87,-118.37
+Rohnert Park,28.98,38.34,-122.7
+Arvin,28.99,35.08,-118.79
+Gustine,29.17,37.14,-121.04
+National City,29.23,32.67,-117.09
+Kerman,29.26,36.71,-120.15
+Tehachapi,29.45,35.13,-118.44
+Fowler,29.46,36.62,-119.67
+Tracy,29.73,37.76,-121.63
+West Covina,29.76,34.06,-117.92
+Livingston,29.84,37.34,-120.75
+Los Angeles,29.94,34.01,-118.19
+Oceanside,30.05,33.18,-117.29
+Santa Clara,30.23,37.4,-121.96
+Morro Bay,30.32,35.36,-120.85
+Delano,30.36,35.75,-119.27
+Sanger,30.4,36.79,-119.44
+Yuba City,30.44,39.05,-121.73
+Indio,30.93,33.75,-116.23
+Kingsburg,31.15,36.48,-119.5
+Carmel,31.69,36.46,-121.82
+Clovis,32.01,36.91,-119.58
+Hayward,32.06,37.62,-122.1
+Suisun City,32.26,38.16,-121.93
+Burlingame,32.37,37.57,-122.34
+Albany,32.4,37.87,-122.3
+La Mesa,32.44,32.76,-117.02
+Santa Maria,32.95,34.95,-120.5
+Salinas,33.14,36.62,-121.64
+Ontario,33.57,34.06,-117.61
+West Sacramento,33.6,38.53,-121.55
+Upland,34.16,34.1,-117.66
+Citrus Heights,34.21,38.68,-121.22
+Mendota,34.61,36.67,-120.43
+Fairfield,34.77,38.26,-121.93
+Colton,34.86,34.01,-117.27
+Westminster,35.11,33.75,-117.99
+Visalia,35.3,36.37,-119.18
+Dos Palos,35.41,37.07,-120.63
+Manteca,35.48,37.73,-121.24
+San Rafael,35.62,37.95,-122.5
+Woodland,35.62,38.69,-121.68
+Campbell,35.65,37.29,-121.95
+Long Beach,35.91,33.77,-118.18
+Ceres,36.23,37.55,-120.96
+Oxnard,36.75,34.25,-119.16
+Gilroy,36.83,37.01,-121.55
+Tulare,36.89,36.2,-119.34
+Madera,36.99,36.96,-120.08
+Riverside,37.06,33.94,-117.39
+Sausalito,37.32,37.86,-122.49
+Willows,37.87,39.5,-122.28
+Pittsburg,38.09,38.0,-121.83
+Walnut Creek,38.39,37.91,-122.01
+Shafter,38.5,35.49,-119.3
+Ventura,38.83,34.26,-119.21
+Corning,39.59,39.93,-122.48
+Fort Bragg,39.67,39.72,-123.77
+Concord,39.68,37.87,-122.04
+Los Banos,39.79,36.9,-121.02
+Monterey,39.8,36.57,-121.83
+Huntington Park,40.44,33.97,-118.21
+Oakdale,40.84,37.8,-120.74
+Sacramento,41.07,38.57,-121.52
+Watsonville,41.68,36.91,-121.75
+Ukiah,42.14,39.12,-123.28
+Antioch,42.37,37.96,-121.76
+San Leandro,42.5,37.68,-122.15
+Merced,42.75,37.41,-120.5
+San Luis Obispo,43.23,35.31,-120.83
+Taft,44.34,35.17,-119.36
+Atwater,44.35,37.32,-120.63
+Santa Monica,45.62,34.01,-118.46
+Marysville,46.23,39.12,-121.39
+Bakersfield,46.46,35.25,-119.0
+Fresno,47.0,36.82,-119.76
+Desert Hot Springs,47.23,33.83,-116.29
+Yreka,47.42,41.75,-122.67
+Redlands,48.16,34.05,-117.19
+California City,48.19,35.15,-117.92
+San Pablo,49.36,37.98,-122.33
+Blythe,49.42,34.14,-114.52
+Vallejo,49.62,38.11,-122.29
+Pinole,49.63,37.99,-122.27
+Montclair,50.41,34.04,-117.67
+Selma,50.87,36.53,-119.64
+Weed,51.48,41.51,-122.36
+Redding,51.98,40.64,-122.5
+Culver City,52.02,33.98,-118.38
+Hemet,52.04,33.74,-116.97
+Berkeley,53.46,37.86,-122.25
+El Cerrito,53.46,37.91,-122.3
+Anderson,54.69,40.44,-122.35
+Barstow,55.7,34.97,-117.05
+Lakeport,55.85,39.04,-122.93
+Stockton,56.15,37.96,-121.3
+Pleasant Hill,56.33,37.95,-122.07
+Modesto,57.63,37.65,-120.99
+San Bernardino,60.45,34.19,-117.34
+Grass Valley,60.7,39.11,-121.12
+Capitola,67.25,36.97,-121.95
+San Francisco,69.15,37.77,-122.41
+Palm Springs,69.81,33.83,-116.54
+Signal Hill,72.24,33.83,-118.18
+Oakland,72.99,37.8,-122.31
+Red Bluff,79.25,40.13,-122.43
+Sand City,439.53,36.62,-121.82
+Westmorland,,33.03,-115.55
+Santa Cruz,,36.97,-122.03
+El Segundo,,33.91,-118.4
+Santa Barbara,,34.49,-120.04
+Santa Ana,,33.71,-117.9
+Etna,,41.41,-123.02
+Avenal,,35.92,-120.1
+Woodlake,,36.46,-119.1
+Alturas,,41.43,-120.53
+Emeryville,,37.84,-122.29
+Vernon,,34.0,-118.21
+Williams,,39.11,-122.27
+Whittier,,33.96,-118.02
+Downey,,33.92,-118.14
+San Marino,,34.12,-118.09
+Alhambra,,34.09,-118.12
+East Palo Alto,,37.45,-122.1
+Tulelake,,41.8,-121.46
+Turlock,,37.53,-120.84
+South Pasadena,,34.11,-118.15
+Arcata,,40.85,-124.05
+South Lake Tahoe,,38.92,-119.96
+South Gate,,33.94,-118.2
+Sonora,,37.96,-120.31
+El Monte,,34.07,-118.02
+Simi Valley,,34.27,-118.71
+Atascadero,,35.48,-120.64
+Susanville,,40.57,-120.61
+Tustin,,33.75,-117.77
+Sutter Creek,,38.44,-120.85
+Seal Beach,,33.75,-118.07
+Tiburon,,37.89,-122.47
+Scotts Valley,,36.97,-122.03
+Torrance,,33.82,-118.32
+El Centro,,32.79,-115.57
+Santa Rosa,,38.45,-122.59
+Santa Paula,,34.35,-119.05
+Anaheim,,33.83,-117.87
+Arroyo Grande,,35.12,-120.57
+Sebastopol,,38.4,-122.82
+Eureka,,40.79,-124.15
+Hawthorne,,33.91,-118.36
+San Fernando,,34.26,-118.46
+Lemoore,,36.28,-119.84
+Lindsay,,36.2,-119.08
+Lodi,,38.13,-121.39
+Lompoc,,34.63,-120.46
+Los Alamitos,,33.8,-118.07
+Corcoran,,36.14,-119.5
+La Verne,,34.15,-117.76
+Glendora,,34.14,-117.85
+Manhattan Beach,,33.87,-118.39
+Glendale,,34.16,-118.21
+Menlo Park,,37.37,-122.21
+Garden Grove,,33.78,-118.03
+Montebello,,34.0,-118.1
+Monterey Park,,34.04,-118.13
+Chico,,39.75,-121.86
+La Palma,,33.85,-118.04
+Lake Shastina,,,
+La Habra,,33.93,-117.94
+Healdsburg,,38.63,-122.89
+Hermosa Beach,,33.86,-118.39
+Colma,,37.68,-122.43
+Colusa,,39.27,-122.05
+Grover Beach,,35.12,-120.62
+Imperial,,32.86,-115.65
+Inglewood,,33.96,-118.35
+Clearlake,,38.96,-122.64
+Irvine,,33.7,-117.81
+Irwindale,,34.09,-117.96
+Jackson,,38.36,-120.79
+Claremont,,34.12,-117.71
+Gridley,,39.35,-121.76
+City of Angels,,,
+Laguna Beach,,33.67,-117.83
+Morgan Hill,,37.08,-121.61
+Gardena,,33.89,-118.31
+Fullerton,,33.89,-117.93
+Mount Shasta,,41.31,-122.32
+Placerville,,38.73,-120.8
+Beverly Hills,,34.05,-118.4
+Pomona,,34.05,-117.75
+Hanford,,36.23,-119.7
+Costa Mesa,,33.64,-117.91
+Bell Gardens,,33.98,-118.18
+Covina,,34.07,-117.84
+Crescent City,,41.83,-124.16
+Richmond,,37.94,-122.38
+Ferndale,,40.45,-124.26
+Rio Dell,,40.46,-124.13
+Bear Valley,,38.35,-120.2
+Cypress,,33.79,-118.06
+Baldwin Park,,34.09,-117.96
+Exeter,,36.28,-119.03
+Placentia,,33.88,-117.85
+San Gabriel,,34.1,-118.1
+Pismo Beach,,35.15,-120.66
+Fortuna,,40.57,-124.15
+Calipatria,,33.13,-115.52
+Nevada City,,39.34,-120.87
+Calexico,,32.67,-115.5
+Fountain Valley,,33.71,-117.92
+Foster City,,37.55,-122.26
+Orange,,33.79,-117.78
+Orland,,39.73,-122.33
+Oroville,,39.91,-121.33
+Buena Park,,33.85,-118.0
+Brea,,33.92,-117.8
+Palo Alto,,37.41,-122.16
+Brawley,,33.02,-115.45
+Paradise,,39.74,-121.61
+Pasadena,,34.15,-118.15
+Paso Robles,,35.65,-120.69
+Bishop,,37.36,-118.4
+Dinuba,,36.52,-119.39
